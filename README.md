@@ -8,8 +8,6 @@
 </p>
 
 - 🔍 Currently exploring **MLOps**, **ML Security**, and **Threat Intelligence**
-- 🛠️ Completed **3 technical internships** in ML, Cybersecurity, and Mobile Development
-- 💻 Always up for building **scalable APIs**, **intelligent systems**, or **secure architectures**
 - 📫 Reach me at **yassinmanita12@gmail.com**
 
 ---
